@@ -21,3 +21,24 @@ img {
     margin-right: auto;
     width: 50%;
 }
+
+ul .home {
+    list-style-type: none;
+
+}
+
+button {
+    padding: 8px;
+    font-family: 'Courier New', Courier, monospace;
+    display: block;
+    margin: auto;
+    background-color: lightgreen;
+    border-color: blueviolet;
+    margin-bottom: 8px;
+    
+}
+
+a:hover {
+    background-color: yellow;
+    font-size: 18px;
+}
